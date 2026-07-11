@@ -10,7 +10,6 @@ O objetivo deste projeto é fornecer uma implementação simples e reutilizável
 - [Uso](#uso)
 - [Estrutura do projeto](#estrutura-do-projeto)
 - [Tratamento de erros](#tratamento-de-erros)
-- [Testes](#testes)
 - [Licença](#licença)
 
 ## Instalação
@@ -99,15 +98,6 @@ O processo de validação é dividido em:
 3. Cálculo do segundo dígito verificador.
 4. Comparação dos dígitos calculados com os valores informados.
 
-## Testes
-
-Os testes utilizam `pytest`.
-
-Execute:
-
-```bash
-pytest
-```
 
 ## Licença
 
